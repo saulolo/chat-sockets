@@ -64,7 +64,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos previos en tu s
 Para comenzar, clona este repositorio en tu máquina local usando Git:
 
 ```shell
-git clone https://github.com/saulolo/stored-procedures.git
+git clone https://github.com/saulolo/chat-sockets
 ```
 
 ## Despliegue 📦
